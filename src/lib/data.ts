@@ -71,7 +71,7 @@ export const projects: Project[] = [
     tags: ["JavaScript", "CSS", "HTML", "jQuery"],
     image: foe,
     filename: "eateries.png",
-    link: "https://www.zferguson.ca/family/"
+    link: "https://testing.zferguson.ca/family/"
   },
 ];
 
