@@ -53,7 +53,7 @@ export const projects: Project[] = [
     tags: ["JavaScript", "PHP", "jQuery", "HTML"],
     image: flick,
     filename: "flick.png",
-    link: "https://zferguson.ca/flick/"
+    link: "https://testing.zferguson.ca/flick/"
   },
   {
     title: "Holy Cupcakes",
