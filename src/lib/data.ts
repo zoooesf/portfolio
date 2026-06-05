@@ -44,7 +44,7 @@ export const projects: Project[] = [
     tags: ["JavaScript", "CSS", "jQuery", "HTML", "PHP", "Foundations"],
     image: greenGrocer,
     filename: "green-grocer.png",
-    link: "https://zferguson.ca/grocer/"
+    link: "https://testing.zferguson.ca/grocer/"
   },
   {
     title: "Flick",
