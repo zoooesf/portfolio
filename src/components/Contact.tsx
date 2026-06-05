@@ -116,7 +116,7 @@ export default function Contact() {
 
             <div style={{ marginTop: 36, display: "flex", flexDirection: "column" }}>
               {[
-                { label: "Resume", href: "http://zferguson.ca/resume.pdf" },
+                { label: "Resume", href: "/resume.pdf" },
                 {
                   label: "LinkedIn",
                   href: "https://www.linkedin.com/in/z-ferguson/",
