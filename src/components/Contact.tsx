@@ -126,7 +126,7 @@ export default function Contact() {
                 <a
                   key={social.label}
                   href={social.href}
-                  target={social.href.startsWith("http") ? "_blank" : undefined}
+                  target="_blank"
                   rel={
                     social.href.startsWith("http")
                       ? "noopener noreferrer"
