@@ -328,7 +328,7 @@ export default function Contact() {
                     color: "var(--ink)",
                   }}
                 >
-                  Thanks — your message is on its way. I&apos;ll be in touch shortly. ✦
+                  Thanks! Your message is on its way. I&apos;ll be in touch shortly. ✦
                 </div>
               )}
             </form>
