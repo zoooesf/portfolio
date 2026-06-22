@@ -683,7 +683,7 @@ export default function EcommercePage() {
             </div>
             <div style={{ display: "flex", flexDirection: "column", gap: 14, position: "relative" }}>
               <a
-                href="mailto:hello@zferguson.ca"
+                href="mailto:zoe.ferguson@hotmail.com"
                 style={{ display: "inline-flex", alignItems: "center", justifyContent: "space-between", gap: 14, borderRadius: 100, padding: "18px 26px", fontSize: 16, fontWeight: 600, background: "var(--accent)", color: "oklch(0.2 0.02 145)", transition: "transform 0.2s, background 0.3s" }}
                 onMouseEnter={(e) => { (e.currentTarget as HTMLAnchorElement).style.transform = "translateY(-2px)"; (e.currentTarget as HTMLAnchorElement).style.background = "var(--accent-soft)"; }}
                 onMouseLeave={(e) => { (e.currentTarget as HTMLAnchorElement).style.transform = ""; (e.currentTarget as HTMLAnchorElement).style.background = "var(--accent)"; }}
