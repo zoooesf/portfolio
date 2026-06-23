@@ -17,9 +17,18 @@ import greenGrocer from "../assets/greenGrocer.png";
 import holy from "../assets/holy.png";
 import flick from "../assets/flick.png";
 import carhub from "../assets/carhub.png";
+import sprout from "../assets/sprout.png";
 import { StaticImageData } from "next/image";
 export const projects: Project[] = [
   {
+    title: "Sprout",
+    description:
+      "I built out this React Native app from scratch, including the design and functionality. The purpose of the of app is to track flair-ups. Whether its allergies, Eczema, or any other condition, the app allows users to track their symptoms and triggers. The app has a built in barcode scanner to easily upload ingredient lists, a weather plug-in to track environmental factors and the ability to export all of the data into easy to read reports that can be shared with doctors.",
+    tags: ["React Native", "Typescript", "Expo", "Supabase",],
+    image: sprout,
+    filename: "sprout.png",
+    link: "https://sprout-taupe.vercel.app/"
+  },{
     title: "Intel City on the Cloud",
     description:
       "I worked as part of a team to create this interactive experience which doubles as a Progressive Web App (PWA). I created functionality that allowed external links to show up as a QR code in the PWA and an external link when viewed in a browser.",
