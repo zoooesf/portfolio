@@ -28,15 +28,16 @@ export const projects: Project[] = [
     image: sprout,
     filename: "sprout.png",
     link: "https://sprout-taupe.vercel.app/"
-  },{
-    title: "Intel City on the Cloud",
-    description:
-      "I worked as part of a team to create this interactive experience which doubles as a Progressive Web App (PWA). I created functionality that allowed external links to show up as a QR code in the PWA and an external link when viewed in a browser.",
-    tags: ["Next.js", "React", "Contentful", "Theme UI"],
-    image: intel,
-    filename: "intel-city.png",
-    link: "https://intel-city-on-the-cloud-2207.vercel.app/"
   },
+  // {
+  //   title: "Intel City on the Cloud",
+  //   description:
+  //     "I worked as part of a team to create this interactive experience which doubles as a Progressive Web App (PWA). I created functionality that allowed external links to show up as a QR code in the PWA and an external link when viewed in a browser.",
+  //   tags: ["Next.js", "React", "Contentful", "Theme UI"],
+  //   image: intel,
+  //   filename: "intel-city.png",
+  //   link: "https://intel-city-on-the-cloud-2207.vercel.app/"
+  // },
   {
     title: "Car Hub",
     description:
